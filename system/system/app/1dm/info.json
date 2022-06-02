@@ -1,0 +1,29 @@
+{
+    "apkm_version": 5,
+    "apk_title": "1DM: Adblock Browser, Video &amp; Torrent Downloader 15.2 (160-640dpi)",
+    "app_name": "1DM: Adblock Browser, Video &amp; Torrent Downloader",
+    "release_version": "15.2",
+    "variant": "(universal) (160-640dpi) (Android 4.0+)",
+    "release_title": "1DM: Adblock Browser, Video &amp; Torrent Downloader 15.2 (160-640dpi)",
+    "versioncode": "206",
+    "pname": "idm.internet.download.manager",
+    "post_date": "2021-10-27 14:36:02",
+    "capabilities": [
+        "leanback"
+    ],
+    "arches": [
+        "arm64-v8a",
+        "armeabi-v7a",
+        "x86",
+        "x86_64"
+    ],
+    "dpis": [
+        "160",
+        "480",
+        "640"
+    ],
+    "min_api": "14",
+    "accent_color": "0c84c0",
+    "apk_id": 2814721,
+    "release_id": 2814656
+}
